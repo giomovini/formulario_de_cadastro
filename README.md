@@ -1,14 +1,18 @@
 # Formulario de Cadastro
 
 ## Exemplo de formulário contendo:
--Nome
--Sobrenome 
--Email 
--Opção de escolha em qual area de desenvolvimento você atua
--Nível de Senioridade
--Tecnologias dominantes
--Espaço para descrever sobre as suas experiencias como DEV
+<ul>
+  <li>Nome</li>
+  <li></li>Sobrenome 
+  <li>Email</li> 
+  <li>Opção de escolha em qual area de desenvolvimento você atua</li>
+  <li>Nível de Senioridade</li>
+  <li>Tecnologias dominantes</li>
+  <li>Espaço para descrever sobre as suas experiencias como DEV</li>
+</ul>
 
 ## Tecnologias utilizadas:
--HTML5
--CSS3
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+</ul>
