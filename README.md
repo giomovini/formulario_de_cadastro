@@ -3,7 +3,7 @@
 ## Exemplo de formulário contendo:
 <ul>
   <li>Nome</li>
-  <li></li>Sobrenome 
+  <li>Sobrenome</li> 
   <li>Email</li> 
   <li>Opção de escolha em qual area de desenvolvimento você atua</li>
   <li>Nível de Senioridade</li>
@@ -16,3 +16,6 @@
   <li>HTML5</li>
   <li>CSS3</li>
 </ul>
+
+Espero que gostem
+Vincius Cremon Giomo
